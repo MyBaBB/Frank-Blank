@@ -1,0 +1,6 @@
+/* index.css or tailwind.css */
+/* This file should be processed by Tailwind CLI or PostCSS with Tailwind plugin */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
